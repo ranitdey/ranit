@@ -18,14 +18,14 @@ I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17
   <img align="right" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300" />
 </p>
 
-- 🌌 I’m currently working at [ZS Associates](https://www.zs.com) as a Business Technology Analyst
-- 🔭 I’m currently learning __Astrophysics__
-- 👯 I’m looking to collaborate on any projects related to (but not limited to) astrophysics, Computer Vision, applications of ML/DL in CV/Audio domain and Robotics
+- 🌌 I’m currently working at [Unibuddy](https://unibuddy.com/?creative=397566569186&keyword=unibuddy&matchtype=e&network=g&device=c&utm_source=google&utm_medium=search&utm_campaign=UK_-_Brand_-_Search&utm_term=keyword&utm_content=Unibuddy&gclid=CjwKCAjwh7H7BRBBEiwAPXjadi4WmfeuCyaHIA7XkSN_RAJHUyjXTQDgMU3tG4Q-O5rwhMV3w78jIhoCgPEQAvD_BwE) as a SDE-II 
+- 👯 I am currently working on building scalable backend systems which can handle massive load and still provide <200ms response time. Exciting isn't it?
+- 👯 I’m happy to collaborate on any projects related to (but not limited to) scalable API's development, Distriuted backend systems.
 - ✨ Pronouns: He/him
 - 🛸 Fun fact: I can code without coffee
-- 🎼 Hobbies: [Music](https://www.youtube.com/playlist?list=PLwX1goq_zNSv1TEPV8gUh9gHFdG316yJc) (Piano, Guitar and Singing), watching Anime, connecting with people, cooking and doodling
+- 🎼 Hobbies: [Music](https://www.youtube.com/playlist?list=PLwX1goq_zNSv1TEPV8gUh9gHFdG316yJc) (Travel, Guitar and Piano), music, connecting with people.
 
-![Chetan's github stats](https://github-readme-stats.vercel.app/api?username=ranitdey&show_icons=true&hide_border=true)
+![Ranit's github stats](https://github-readme-stats.vercel.app/api?username=ranitdey&show_icons=true&hide_border=true)
 
 We have sped and warped through my universe. Want to unveil your own universe? Contact me at: <a href="https://www.linkedin.com/in/ranit-dey-587b1081/">
   <img align="right" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
