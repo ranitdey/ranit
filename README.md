@@ -23,7 +23,7 @@ I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17
 - 👯 I’m happy to collaborate on any projects related to (but not limited to) scalable API's development, Distriuted backend systems.
 - ✨ Pronouns: He/him
 - 🛸 Fun fact: I can code without coffee
-- 🎼 Hobbies: [Music](https://www.youtube.com/playlist?list=PLwX1goq_zNSv1TEPV8gUh9gHFdG316yJc) (Travel, Guitar and Piano), music, connecting with people.
+- 🎼 Hobbies: [Travel](https://www.youtube.com/channel/UCl8_DL2iJHC-na2f8IR2Kcg) (Travel, Guitar and Piano), music, connecting with people.
 
 ![Ranit's github stats](https://github-readme-stats.vercel.app/api?username=ranitdey&show_icons=true&hide_border=true)
 
