@@ -34,6 +34,15 @@ We have sped and warped through my universe. Want to unveil your own universe? C
   <img align="right" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 </details>
+### Languages and Tools :computer:
+
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/ranitdey)](https://github.com/ranitdey) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/ranitdey)](https://github.com/ranitdey)
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/ranitdey)](https://github.com/ranitdey) 
+
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/ranitdey)](https://github.com/ranitdey) [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/ranitdey)](https://github.com/ranitdey) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/ranitdey)](https://github.com/ranitdey) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/ranitdey)](https://github.com/ranitdey)
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/ranitdey)](https://github.com/ranitdey) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/ranitdey)](https://gitlab.com/ranitdey) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/ranitdey)](https://github.com/ranitdey)
 
 <p align="center">
 <img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
