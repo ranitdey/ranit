@@ -27,7 +27,7 @@ I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17
 
 ![Ranit's github stats](https://github-readme-stats.vercel.app/api?username=ranitdey&show_icons=true&hide_border=true)
 
-We have sped and warped through my universe. Want to unveil your own universe? Contact me at: <a href="https://www.linkedin.com/in/ranit-dey-587b1081/">
+We have speed and warped through my universe. Want to unveil your own universe? Contact me at: <a href="https://www.linkedin.com/in/ranit-dey-587b1081/">
   <img align="right" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
 <a href="mailto:ranit.dey111@gmail.com">
